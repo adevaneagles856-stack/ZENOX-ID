@@ -1,0 +1,6 @@
+{
+  "name": "Local AI Chat",
+  "description": "AI chat assistant with robust Room local storage persisting conversation history across app sessions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
